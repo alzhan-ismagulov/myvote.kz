@@ -1,0 +1,3 @@
+[submodule "redbean"]
+	path = redbean
+	url = C:/OSPanel/domains/myvote.kz/vendor/gabordemooij/redbean

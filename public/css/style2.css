@@ -1,0 +1,294 @@
+body{
+    min-width: 320px;
+    font-size: 13px;
+    font-family: "Open Sans";
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.banner{
+    height: 100vh;
+    min-height: 500px;
+    justify-content: center;
+    background-image: url("../../public/images/petition-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: table;
+    width: 100%;
+}
+.banner-content{
+    color: white;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+.banner-title{
+    text-transform: uppercase;
+    font-family: "Open Sans", Sans-Serif;
+    font-size: 40px;
+}
+.banner-text{
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.banner-btn{
+    padding: 10px;
+    margin-top: 40px;
+    color: white;
+}
+.banner-content a:hover{
+    background-color: orange;
+    color: #0a0a0a;
+    text-decoration: none;
+    border: none;
+}
+.btn-voting {
+    border: 1px solid white;
+}
+.container{
+    max-width: 1170px;
+    padding: 20px 20px 20px 20px;
+}
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255,255,255);
+}
+.navbar{
+    background-color: #0056b3;
+    font-size: 12px;
+}
+.dropdown-item{
+    font-size: 12px;
+    color: #0056b3;
+}
+.dropdown-item a{
+    color: #000;
+}
+
+.navbar a{
+    color: white;
+}
+.navbar a:hover{
+    color: orange;
+}
+.dropdown-menu a{
+    color: #0a0a0a;
+}
+.breadcrumb a{
+    color: #fff;
+}
+h2{
+    text-transform: uppercase;
+}
+.modal-content a{
+    color: #000;
+}
+a:hover{
+    color: #c1ac58;
+    text-decoration: none;
+}
+ul, li{
+    list-style: none;
+}
+.breadcrumb{
+    height: 80px;
+    width: 100%;
+    background-color: #2c4762;
+    opacity: 70%;
+    border-radius: 0;
+    font-size: 12px;
+    line-height: 55px;
+}
+.breadcrumb-item{
+    color: white;
+}
+.index-content{
+    /*background-color: #D2E0E6;*/
+    padding: 40px;
+    margin: 20px;
+}
+.index-text{
+    font-size: 14px;
+    font-family: "Open Sans";
+}
+
+/*==========statistic==========================*/
+.statistic{
+    margin-bottom: 20px;
+    align-content: center;
+    border: none;
+    width: 100%;
+}
+.statistic-title{
+    font-size: 80px;
+    text-align: center;
+}
+.statistic-body{
+    text-align: center;
+    text-transform: uppercase;
+}
+.statistic-petition{
+    color: darkred;
+}
+.statistic-vote{
+    color: orange;
+}
+.statistic-comments{
+    color: darkblue;
+}
+.statistic-users{
+    color: darkgreen;
+}
+.not-petition{
+    padding: 60px 40px 80px 40px;
+    background-color: #2c4762;
+    color: white;
+}
+.red{
+    padding: 60px 40px 80px 40px;
+    background-color: darkred;
+    color: white;
+}
+.participant-page{
+    padding: 60px;
+    height: auto;
+}
+.participant{
+    margin-top: 20px;
+}
+table{
+    padding-top: 40px;
+}
+th{
+    background-color: #0056b3;
+    color: white;
+    font-size: 12px;
+    font-family: "Open Sans";
+    text-align: center;
+    padding: 5px 10px;
+    border: 1px solid white;
+}
+
+td{
+    padding: 5px 20px;
+    border: 1px solid black;
+    font-size: 14px;
+}
+.participant-text{
+    font-size: 14px;
+    padding-top: 20px;
+    font-family: "Open Sans";
+}
+
+.petition{
+    position: relative;
+    display: block;
+    max-width: 100%;
+    padding: 15px 15px 15px 15px;
+    margin: 2rem 0;
+    overflow: hidden;
+    font-size: .8125rem;
+    line-height: 1.4;
+    text-align: left;
+    background-color: rgba(0,0,0,.05);
+}
+.petition-img{
+    /*max-width: 200px*/
+    vertical-align: middle;
+}
+.petition-view{
+    padding: 20px;
+}
+
+.list-petitions{
+    display: block;
+    box-shadow: 3px 3px 3px #ccc;
+}
+.already-vote{
+    background-color: green;
+    color: white;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+}
+.comment-text{
+    margin: 10px 0px;
+}
+.user-form{
+    padding: 40px;
+    margin-bottom: 15px;
+    display: block;
+    -webkit-box-shadow: 1px 6px 40px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 6px 40px -9px rgba(0,0,0,0.75);
+    box-shadow: 1px 6px 40px -9px rgba(0,0,0,0.75);
+}
+.feedback-title, .signup-title, .recovery-title, .updatepass-title{
+    padding: 10px 0;
+    text-align: center;
+}
+.hr{
+    margin-top: 40px;
+}
+footer{
+    height: 120px;
+    width: 100%;
+    background-color: #0056b3;
+    font-size: 12px;
+    line-height: 120px;
+}
+/*counter end */
+
+.footer-logo{
+    color: #fff;
+    padding: 0 40px;
+}
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    button{
+        margin-top: 10px;
+        width: 100%;
+    }
+    .card-item{
+        margin-bottom: 40px;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    button{
+        margin-top: 10px;
+        width: 100%;
+        margin-right: .5rem;
+    }
+    #search{
+        width: 100%;
+        margin-right: .5rem;
+    }
+    .card-item{
+        margin-bottom: 40px;
+    }
+    .petition-img-view{
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .card-item{
+        margin-bottom: 40px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
