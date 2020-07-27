@@ -16,7 +16,7 @@
             $token = $user->token; ?>
             <p>Здравствуйте! Кто-то запросил восстановление пароля на сайте "<?=\myvote\App::$app->getProperty('site_name');?>"</a></p>
             <p>Для того, чтобы восстановить пароль, пройдите
-                <a href="<?=PATH;?>updatepass?token=<?=$token;?>" target="_blank">сюда</a></p>
+                <a href="<?=PATH;?>updatePass?token=<?=$token;?>" target="_blank">сюда</a></p>
         </div>
     </div>
 </div>

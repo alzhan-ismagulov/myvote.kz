@@ -1,5 +1,4 @@
 <?php
-
     function debug($arr, $die = false){
         echo '<pre>' . print_r($arr, true) . '</pre>';
         if($die) die;
@@ -62,4 +61,10 @@
             }
         }
         return $tree;
+    }
+    function restrictArea(){
+        if (!isset($_SESSION['user'])){
+            $_SESSION['error'] = 'Вам нужно войти в систему';
+            redirect('/');
+        }
     }

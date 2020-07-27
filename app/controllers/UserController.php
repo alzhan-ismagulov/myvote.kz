@@ -18,22 +18,8 @@ class UserController extends AppController {
         $pagination = new Pagination($page, $perpage, $count);
         $start = $pagination->getStart();
         $user_id = $_SESSION['user']['id'];
-
-        $petitions = \R::getAll("SELECT 
-                                        `petitions`.`id`, 
-                                        `petitions`.`title`,  
-                                        `petitions`.`user`, 
-                                        `petitions`.`created`, 
-                                        `petitions`.`status`, 
-                                        `users`.`surname`, 
-                                        `users`.`name`, 
-                                        `users`.`middle_name`, 
-                                        `users`.`ip` 
-                                        FROM `petitions`
-                                        JOIN `users`
-                                        ON `petitions`.`user` = $user_id
-                                        ORDER BY `petitions`.`id`, `petitions`.`created`
-                                        LIMIT $start, $perpage");
+        $petitions = \R::getAll("SELECT * FROM `petitions` WHERE `user` = ? ORDER BY `petitions`.`id` LIMIT $start, $perpage",
+            [$user_id]);
         $this->setMeta('Личный кабинет');
         $this->set(compact('petitions', 'pagination', 'count'));
     }
@@ -52,7 +38,8 @@ class UserController extends AppController {
             $user->profession = $_POST['profession'];
             $user->city = $_POST['city'];
             $user->attributes['status'] = $_SESSION['user']['status'];
-            $user->attributes['password'] = password_hash($user->attributes['password'], PASSWORD_DEFAULT);
+            $password = h($_POST['password']);
+            $user->password = password_hash($password, PASSWORD_DEFAULT);
             $user->modified = date('Y-m-d H:i:s');
             $ip = $_SERVER['REMOTE_ADDR'];
             $user->attributes['ip'] = $ip;
@@ -64,7 +51,6 @@ class UserController extends AppController {
                 redirect('');
             }
         }
-
         $user_id = $_SESSION['user']['id'];
         $user = \R::getRow('SELECT `users`.`id`,
                                         `users`.`login`,
@@ -123,9 +109,7 @@ class UserController extends AppController {
             $_SESSION['error'] = 'Просмотр чужих петиций не доступен в личном кабинете.';
             redirect(PATH . 'petitions');
         } else {
-//
             $countVouting = \R::count('vote', 'petition_id = ?', [$petition_id]);
-//
             $this->setMeta("Петиция №{$petition_id}");
             $this->set(compact('petition', 'users', 'countVouting'));
         }

@@ -24,7 +24,7 @@
                     </p>
                 </div>
                 <div class="petition-image-view">
-                    <p><img src="<?=PATH;?>public/images/<?=$petition['image'];?>" alt=""></p>
+                    <p><img src="<?=PATH;?>public/images/<?=$petition['image'];?>" alt="" class="petition-img-view"></p>
                 </div>
                 <div class="petition-destination-view">
                     <p><b><?= $petition['destination']; ?></b></p>

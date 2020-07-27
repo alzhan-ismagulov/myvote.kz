@@ -13034,3 +13034,413 @@
 ===========
 [2020-07-25 15:09:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\myvote.kz\vendor\myvote\core\Router.php | Строка: 39
 ===========
+[2020-07-25 16:48:11] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\myvote.kz\vendor\myvote\core\Router.php | Строка: 39
+===========
+[2020-07-25 16:57:14] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\myvote.kz\vendor\myvote\core\Router.php | Строка: 39
+===========
+[2020-07-25 17:00:25] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\myvote.kz\app\controllers\PetitionsController.php | Строка: 65
+===========
+[2020-07-25 17:00:26] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\myvote.kz\vendor\myvote\core\Router.php | Строка: 39
+===========
+[2020-07-26 20:00:24] Текст ошибки: Контроллер app\controllers\SignupController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-26 20:00:57] Текст ошибки: Контроллер app\controllers\SignupController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-26 20:02:56] Текст ошибки: Контроллер app\controllers\SignupController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-26 20:03:54] Текст ошибки: Контроллер app\controllers\SignupController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-26 20:05:54] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/Signup/index.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-26 20:10:56] Текст ошибки: Контроллер app\controllers\UpdatepassController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-26 20:15:14] Текст ошибки: Call to undefined function app\controllers\restrictArea() | Файл: /var/www/vhosts/myvote.kz/httpdocs/app/controllers/UserController.php | Строка: 14
+===========
+[2020-07-26 20:17:21] Текст ошибки: Call to undefined function app\controllers\restrictArea() | Файл: /var/www/vhosts/myvote.kz/httpdocs/app/controllers/UserController.php | Строка: 14
+===========
+[2020-07-26 20:18:00] Текст ошибки: Call to undefined function app\controllers\restrictArea() | Файл: /var/www/vhosts/myvote.kz/httpdocs/app/controllers/UserController.php | Строка: 14
+===========
+[2020-07-26 20:18:41] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:19:00] Текст ошибки: Call to undefined function app\controllers\restrictArea() | Файл: /var/www/vhosts/myvote.kz/httpdocs/app/controllers/UserController.php | Строка: 136
+===========
+[2020-07-26 20:19:04] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:19:17] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `petitions`.`id`, `petitions`.`created`
+                              ' at line 14 | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+===========
+[2020-07-26 20:19:55] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `petitions`.`id`, `petitions`.`created`
+                              ' at line 14 | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+===========
+[2020-07-26 20:20:01] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `petitions`.`id`, `petitions`.`created`
+                              ' at line 14 | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+===========
+[2020-07-26 20:20:11] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:20:33] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:20:38] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:21:20] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `petitions`.`id`, `petitions`.`created`
+                              ' at line 14 | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+===========
+[2020-07-26 20:21:39] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:21:43] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:21:46] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:22:15] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:22:27] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:22:32] Текст ошибки: Call to undefined function app\models\restrictArea() | Файл: /var/www/vhosts/myvote.kz/httpdocs/app/models/Petition.php | Строка: 19
+===========
+[2020-07-26 20:24:21] Текст ошибки: Call to undefined function app\models\restrictArea() | Файл: /var/www/vhosts/myvote.kz/httpdocs/app/models/Petition.php | Строка: 19
+===========
+[2020-07-26 20:25:22] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:25:51] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:28:53] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:37:51] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:42:29] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:42:34] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:43:21] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:43:27] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:43:30] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:43:33] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:43:58] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:50:36] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:50:43] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:50:50] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:50:55] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:51:19] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:51:26] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:52:02] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:52:09] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:52:15] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:52:23] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:54:20] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:54:24] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:54:26] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:54:29] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:54:55] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:54:59] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:55:20] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:55:26] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:55:29] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:55:32] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:56:55] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:58:14] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:58:55] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 20:59:44] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 21:53:02] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 21:59:54] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 22:00:16] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 22:00:23] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 22:00:29] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 22:00:32] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 22:05:10] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 22:24:42] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 22:25:40] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-26 22:25:52] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 00:52:19] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 00:52:34] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 00:52:43] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 00:53:07] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 00:53:09] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 00:53:10] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 00:53:12] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/app/controllers/admin/PetitionsController.php | Строка: 63
+===========
+[2020-07-27 00:53:15] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 02:12:26] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 02:23:29] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 02:25:44] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 02:36:02] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 02:39:15] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 02:48:39] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 02:49:14] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:01:20] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:07:31] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:07:51] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:08:48] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:16:13] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:16:26] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:16:30] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:17:16] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:18:44] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 03:20:28] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:38:44] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:40:59] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:41:00] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:42:20] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:42:55] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:43:19] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:46:59] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:51:37] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:52:05] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:52:36] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 04:54:15] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/User/login.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-27 04:55:38] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:05:56] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:06:26] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:08:24] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:09:48] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:10:47] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:12:28] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:13:51] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:19:08] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:22:04] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:25:54] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:27:02] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:54:44] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:55:06] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:55:13] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:55:40] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:57:42] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:57:52] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 05:57:53] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:01:04] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:03:59] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:05:01] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/admin/MyPetition/index.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-27 06:05:50] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/admin/MyPetition/index.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-27 06:06:09] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/admin/MyPetition/index.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-27 06:06:13] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:06:18] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/admin/MyPetition/index.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-27 06:06:22] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:06:26] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:06:34] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:06:39] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:06:56] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:09:00] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:09:12] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:09:19] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/admin/MyPetition/index.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-27 06:09:25] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:09:37] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:09:45] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/admin/MyPetition/index.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-27 06:09:49] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:10:16] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:10:23] Текст ошибки: Не найден вид /var/www/vhosts/myvote.kz/httpdocs/app/views/admin/MyPetition/index.php | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/base/View.php | Строка: 42
+===========
+[2020-07-27 06:12:27] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:12:38] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:15:08] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:15:23] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:15:23] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:15:30] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:15:52] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:15:58] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:16:07] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:16:12] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:17:51] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:17:58] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:18:04] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:19:06] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:19:12] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:19:26] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:20:43] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:23:15] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:23:23] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:24:23] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:27:22] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:28:03] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:28:20] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:28:32] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:28:37] Текст ошибки: Контроллер app\controllers\admin\KeywordsViewController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-27 06:33:42] Текст ошибки: Контроллер app\controllers\admin\KeywordsViewController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-27 06:33:59] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:34:15] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:34:18] Текст ошибки: Контроллер app\controllers\admin\KeywordsViewController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-27 06:34:58] Текст ошибки: Контроллер app\controllers\admin\KeywordsViewController не найден | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 36
+===========
+[2020-07-27 06:35:01] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:36:24] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:36:31] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:36:34] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:37:10] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:37:47] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:37:53] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:38:10] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:38:36] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:39:02] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:39:33] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:39:40] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:39:43] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:40:01] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:44:24] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:44:33] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:44:55] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:45:59] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:47:09] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:47:22] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:48:18] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========
+[2020-07-27 06:48:27] Текст ошибки: Страница не найдена | Файл: /var/www/vhosts/myvote.kz/httpdocs/vendor/myvote/core/Router.php | Строка: 39
+===========

@@ -15,22 +15,8 @@ class MyPetitionController extends AppController
         $pagination = new Pagination($page, $perpage, $count);
         $start = $pagination->getStart();
         $user_id = $_SESSION['user']['id'];
-        $petitions = \R::getAll("SELECT 
-                                        `petitions`.`id`, 
-                                        `petitions`.`title`,  
-                                        `petitions`.`user`, 
-                                        `petitions`.`created`, 
-                                        `petitions`.`status`, 
-                                        `users`.`surname`, 
-                                        `users`.`name`, 
-                                        `users`.`middle_name`, 
-                                        `users`.`ip` 
-                                        FROM `petitions`
-                                        JOIN `users`
-                                        ON `petitions`.`user` = $user_id
-                                        ORDER BY `petitions`.`id`
-                                        LIMIT $start, $perpage");
-
+        $petitions = \R::getAll("SELECT * FROM `petitions` WHERE `user` = ? ORDER BY `petitions`.`id` LIMIT $start, $perpage",
+            [$user_id]);
         $this->setMeta('Список моих петиций');
         $this->set(compact('petitions', 'pagination', 'count'));
     }

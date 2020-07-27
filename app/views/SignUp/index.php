@@ -16,7 +16,7 @@
                 может увидеть только администратор портала.
             </p>
             <div class="signup-content">
-                <form method="post" action="signup" id="signup" class="dx-form" role="form" data-toggle="validator">
+                <form method="post" action="signUp" id="signup" class="dx-form" role="form" data-toggle="validator">
                     <div class="box-content">
                         <div class="form-group">
                             <label for="login" class="mnt-7">Логин</label>

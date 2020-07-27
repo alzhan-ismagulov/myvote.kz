@@ -131,7 +131,8 @@ class UserController extends AppController
             $user->age = $_POST['age'];
             $user->profession = $_POST['profession'];
             $user->city = $_POST['city'];
-            $user->attributes['password'] = password_hash($user->attributes['password'], PASSWORD_DEFAULT);
+            $password = h($_POST['password']);
+            $user->password = password_hash($password, PASSWORD_DEFAULT);
             $user->modified = date('Y-m-d H:i:s');
             $ip = $_SERVER['REMOTE_ADDR'];
             $user->attributes['ip'] = $ip;

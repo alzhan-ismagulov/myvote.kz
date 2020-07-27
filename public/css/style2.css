@@ -197,6 +197,10 @@ td{
     /*max-width: 200px*/
     vertical-align: middle;
 }
+img > .petition-img-view{
+    width: 100%;
+    height: auto;
+}
 .petition-view{
     padding: 20px;
 }
@@ -233,18 +237,23 @@ td{
     margin-top: 40px;
 }
 footer{
-    height: 120px;
+    height: 140px;
     width: 100%;
     background-color: #0056b3;
     font-size: 12px;
+    /*padding: 40px;*/
+    color: white;
+}
+.footer-content{
+    width: 100%;
     line-height: 120px;
 }
-/*counter end */
-
 .footer-logo{
     color: #fff;
-    padding: 0 40px;
 }
+
+
+
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
     button{
@@ -253,6 +262,13 @@ footer{
     }
     .card-item{
         margin-bottom: 40px;
+    }
+    .footer-content{
+        text-align: center;
+        line-height: 110px;
+    }
+    .count{
+        display: none;
     }
 }
 
@@ -273,6 +289,9 @@ footer{
     .petition-img-view{
         width: 100%;
         margin: 0 auto;
+    }
+    .count{
+        display: none;
     }
 }
 

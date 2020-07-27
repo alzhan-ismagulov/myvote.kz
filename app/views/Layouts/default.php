@@ -10,11 +10,38 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="<?=PATH;?>public/css/style2.css">
     <?=$this->getMeta();?>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(65912581, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/65912581" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <!--LiveInternet counter--><script>
+        new Image().src = "//counter.yadro.ru/hit?r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";h"+escape(document.title.substring(0,150))+
+            ";"+Math.random();
+    </script>
+    <!--/LiveInternet-->
+
 </head>
 <body>
 <section name="header">
     <nav class="navbar navbar-expand-lg">
-        <a class="navbar-brand" href="#">MYVOTE</a>
+        <a class="navbar-brand" href="/">MYVOTE</a>
         <nav class="navbar navbar-dark">
             <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -86,7 +113,7 @@
                                             <div>Забыли пароль? <a class="recover" href="<?=PATH;
                                             ?>recover">Восстановление пароля</a>
                                             </div>
-                                            <div>Нет аккаунта? <a class="signup" href="<?=PATH;?>signup">Регистрация</a>
+                                            <div>Нет аккаунта? <a class="signup" href="<?=PATH;?>signUp">Регистрация</a>
                                             </div>
                                         </form>
                                     </div>
@@ -115,13 +142,24 @@
     <?=$content;?>
 </section>
 
-<section name="footer">
-    <footer>
-        <div class="footer-logo">
-            <p><b>MYVOTE</b> 2020. Все права соблюдены</p>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="footer-content col-md-12">
+                <div class="logo col-xs-6 float-md-left">
+                    <b>MYVOTE</b> 2020. Все права соблюдены
+                </div>
+                <div class="count col-xs-6 float-md-right text-right">
+                    <a href="//www.liveinternet.ru/click" target="_blank">
+                        <img src="//counter.yadro.ru/logo?11.6"
+                            title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+                             alt="" style="width: 90px; height: auto" />
+                    </a>
+                </div>
+            </div>
         </div>
-    </footer>
-</section>
+    </div>
+</footer>
 
 <script src="/public/js/jquery-3.5.1.min.js"></script>
 <script src="/public/js/validator.min.js"></script>
